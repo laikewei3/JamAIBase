@@ -1,0 +1,100 @@
+### Action and Adventure
+- Heroic Fantasy
+- Lost World
+- Nautical Fiction
+- Pirate Novel
+- Spy Fiction
+- Survival
+- Swashbuckler
+
+### Comedy
+- Burlesque
+- Comedy Horror
+- Parody
+- Satire
+- Tall Tale
+- Tragicomedy
+
+### Crime and Mystery
+- Caper
+- Detective Fiction
+- Legal Thriller
+- Police Procedural
+- Whodunit
+
+### Fantasy
+- Dark Fantasy
+- Epic Fantasy
+- Fairy Tale
+- High Fantasy
+- Low Fantasy
+- Magic Realism
+- Mythic Fiction
+- Paranormal Romance
+- Sword and Sorcery
+- Urban Fantasy
+
+### Historical
+- Alternate History
+- Historical Fantasy
+- Historical Mystery
+- Historical Romance
+- Regency Romance
+- Nautical Fiction
+- Pirate Novel
+
+### Horror
+- Body Horror
+- Gothic Fiction
+- Lovecraftian Horror
+- Monster Literature
+- Psychological Horror
+- Splatterpunk
+- Supernatural Horror
+- Zombie Apocalypse
+
+### Romance
+- Contemporary Romance
+- Erotic Romance
+- Historical Romance
+- Paranormal Romance
+- Romantic Comedy
+- Romantic Fantasy
+- Romantic Suspense
+- Time-Travel Romance
+
+### Science Fiction
+- Apocalyptic and Post-Apocalyptic
+- Cyberpunk
+- Dystopian
+- Hard Science Fiction
+- Military Science Fiction
+- Space Opera
+- Steampunk
+- Utopian
+
+### Thriller and Suspense
+- Conspiracy Thriller
+- Legal Thriller
+- Medical Thriller
+- Political Thriller
+- Psychological Thriller
+- Techno-Thriller
+
+### Western
+- Classic Western
+- Contemporary Western
+- Space Western
+- Weird West
+
+### Other Genres
+- Children's Literature
+- Young Adult Fiction
+- New Adult Fiction
+- Literary Fiction
+- Coming-of-Age
+- Metafiction
+- Philosophical Fiction
+- Satire
+- Social and Political Fiction
+- Urban Fiction
